@@ -33,7 +33,7 @@
 ### 🎖️ Badges :
 
 <div>
-  <a href="https://www.cloudskillsboost.google/public_profiles/1bd306d1-632c-4569-991e-2cb1087a4e11" target="_blank">
+  <a href="https://www.cloudskillsboost.google/public_profiles/8d99796b-c140-4242-b585-2eb8ac63bc06" target="_blank">
       <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="90" height="90" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/57bc9569-8a74-4a75-b1e7-c0f472d62fa3" target="_blank">
