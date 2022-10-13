@@ -1,8 +1,11 @@
-<h1>Hi there, I'm emRival 👋</h1>
+<h1 align="center">Hi there, I'm emRival 👋</h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emRival&label=Profile%20views&color=0e75b6&style=flat" alt="emRival" /> <a href="https://wakatime.com/@1c91a63c-2af2-4dd6-b92d-97988e8ae2e6"> <img src="https://wakatime.com/badge/user/1ae5f7a1-269e-4114-aa66-e711b8b0204d.svg"/> </a> </p>
 
 
-[![Github Follow](https://img.shields.io/github/followers/emRival?label=Followers&logo=Github&style=for-the-badge)](https://github.com/emRival)
-[![Youtube Subscrabe](https://img.shields.io/youtube/channel/subscribers/UCdQCvC2fL29rr46vpeOSd7w?label=Subscrabers&logo=Youtube&style=for-the-badge)](https://www.youtube.com/channel/UCdQCvC2fL29rr46vpeOSd7w)
+
+<p align="center"> <img src="https://img.shields.io/youtube/channel/subscribers/UCdQCvC2fL29rr46vpeOSd7w?label=Subscrabers&logo=Youtube&style=for-the-badge" /> <a href="https://www.youtube.com/channel/UCdQCvC2fL29rr46vpeOSd7w" </a> <img src="https://img.shields.io/github/followers/emRival?label=Followers&logo=Github&style=for-the-badge" /> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emRival&row=1&no-frame=true" alt="emRival" /></a></p>
 
 ## I'm a Muslim, Student, Teacher, and Junior Developer 😁
 
@@ -11,10 +14,19 @@
 - 🎓 I'm currently a collage student at IDN Boarding School - STIKOM CKI JKT
 - 🔥 I like to learn new things and explore nature
 
+<br>
+
+### 🙌 I'm Here :
+<p align="left">
+<a href="https://instagram.com/em_rival" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="em_rival" height="30" width="40" /></a>
+<a href="https://medium.com/@em_rival" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@em_rival" height="30" width="40" /></a>
+<a href="https://dev.to/emrival" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="emrival" height="30" width="40" /></a>
+</p>
+
 ### 💻  My war equipment :
 <img width="170px"  src="https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-2?label=Apple&logo=Apple&style=for-the-badge" />
 
-### 🍳 Skills :
+### 🍳 Meal Recipes :
 
 <p align="left">
 <h3>Web/Mobile/Back-End/Database/Design</h3>
