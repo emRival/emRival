@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm emRival 👋</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=emRival&label=Profile%20views&color=0e75b6&style=flat" alt="emRival" /> <a href="https://wakatime.com/@1c91a63c-2af2-4dd6-b92d-97988e8ae2e6"> <img src="https://wakatime.com/badge/user/1ae5f7a1-269e-4114-aa66-e711b8b0204d.svg"/> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emRival&label=Profile%20views&color=0e75b6&style=flat" alt="emRival" /> <a href="https://wakatime.com/@1ae5f7a1-269e-4114-aa66-e711b8b0204d"> <img src="https://wakatime.com/badge/user/1ae5f7a1-269e-4114-aa66-e711b8b0204d.svg"/> </a> </p>
 
 
 
