@@ -59,3 +59,5 @@
 ### 🦖 Holo's Pin :
 
 [![@em_rival's Holopin board](https://holopin.me/em_rival)](https://holopin.io/@em_rival)
+
+![snake animation](https://github.com/emRival/emRival/blob/output/github-contribution-grid-snake2.svg)
