@@ -9,7 +9,7 @@
 
 ## I'm a Muslim, Student, Teacher, and Junior Developer 😁
 
-- 🇮🇩 Cikarang - Bekasi sokin Bang
+- 🇮🇩 Cikarang - Bekasi
 - 🍀 22 y.o
 - 🎓 I'm currently a collage student at IDN Boarding School - STIKOM CKI JKT
 - 🔥 I like to learn new things and explore nature
