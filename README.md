@@ -57,7 +57,7 @@
 </div>
 
 ![snake gif](https://github.com/emRival/emRival/blob/output/github-contribution-grid-snake-dark.svg)
-![Metric](https://github.com/emRival/emRival/blob/output/metrics.plugin.isocalendar.fullyear.svg)
+![Metric](https://github.com/emRival/emRival/blob/main/metrics.plugin.isocalendar.fullyear.svg)
 
 
 ### 🦖 Holo's Pin :
