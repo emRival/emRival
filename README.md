@@ -5,7 +5,7 @@
 
 
 <p align="center"> <a href="https://www.youtube.com/UCdQCvC2fL29rr46vpeOSd7w" </a><img src="https://img.shields.io/youtube/channel/subscribers/UCdQCvC2fL29rr46vpeOSd7w?label=Subscrabers&logo=Youtube&style=for-the-badge" />  <img src="https://img.shields.io/github/followers/emRival?label=Followers&logo=Github&style=for-the-badge" /> </p>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emRival&row=1&no-frame=true" alt="emRival" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emRival&theme=monokai" alt="emRival" /></a></p>
 
 ## I'm a Muslim, Student, Teacher, and Junior Developer 😁
 
